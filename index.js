@@ -26,4 +26,3 @@ function json2Csv(jsonArray) {
     return csv.join('\r\n');
 }
 exports.json2Csv = json2Csv;
-console.log(json2Csv([{ id: 1 }]));
