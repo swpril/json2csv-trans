@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "typescript": "4.4.3"
+  },
+  "name": "json2csv-trans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc src/index.ts && node src/index.js"
+  },
+  "keywords": [
+    "json2csv",
+    "json",
+    "csv",
+    "json2csv convertor",
+    "converter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
